@@ -1,0 +1,10 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+README.md
+example/gb64.pl
+example/benchmark.pl
+lib/gb64.pm
+pod/gb64.pod
+t/gb64.t
